@@ -1,4 +1,4 @@
-# MySQL Task 2 Zen Class Database
+# MySQL Zen Class Database Model
 
 - This is a Guvi Zen Class database model organizes user data, tracks codekata problem-solving skills, records participation in company drives & placements, monitors mentorship topics and tasks, maintains users  attendance, and logs user queries. The design aims to provide a structured foundation for an interactive and comprehensive learning platform for every users.
 
